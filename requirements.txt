@@ -1,0 +1,3 @@
+# OpenCV 5 removed the Caffe and TensorFlow importers these models need, so stay on 4.x.
+opencv-python>=4.8,<5
+numpy>=1.24
