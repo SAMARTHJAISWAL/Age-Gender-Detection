@@ -95,3 +95,7 @@ tests/                       pytest suite
 - Gender is a binary appearance-based estimate.
 - Earlier versions of this README mentioned Twitter data collection. No such code exists in the
   repository.
+
+## Licence
+
+[MIT](LICENSE) © 2023–2026 Samarth Jaiswal
